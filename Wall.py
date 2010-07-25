@@ -39,6 +39,10 @@ Version history:
 
 v0.1 - Initial revision. Seems to work fine for most purposes.
 
+TODO
+
+* Convet a selected plane to a wall
+
 """"
 import bpy
 from bpy.props import *
